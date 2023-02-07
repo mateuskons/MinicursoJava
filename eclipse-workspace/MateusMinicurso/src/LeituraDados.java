@@ -35,6 +35,10 @@ public class LeituraDados {
 		realFloat=ler.nextFloat();
 		System.out.println(realFloat);
 		
+		System.out.println("Digite numero Byte");
+		numeroByte=ler.nextByte();
+		System.out.println(numeroByte);
+		
 		
 		
 
